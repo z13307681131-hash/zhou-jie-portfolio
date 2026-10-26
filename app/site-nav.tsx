@@ -1,0 +1,8 @@
+'use client';
+import {useEffect,useRef,useState} from 'react';
+import {ArrowUpRight,Menu,X} from 'lucide-react';
+export function SiteNav(){
+ const[open,setOpen]=useState(false);const nav=useRef<HTMLElement>(null),toggle=useRef<HTMLButtonElement>(null);
+ useEffect(()=>{function close(e:PointerEvent){if(!nav.current?.contains(e.target as Node))setOpen(false);}function key(e:KeyboardEvent){if(e.key==='Escape'&&nav.current?.dataset.open==='true'){setOpen(false);toggle.current?.focus();}}const wide=matchMedia('(min-width:821px)');function resize(){if(wide.matches)setOpen(false);}document.addEventListener('pointerdown',close);document.addEventListener('keydown',key);wide.addEventListener('change',resize);return()=>{document.removeEventListener('pointerdown',close);document.removeEventListener('keydown',key);wide.removeEventListener('change',resize);};},[]);
+ return <nav ref={nav} className="nav shell" aria-label="主导航" data-open={open}><a className="monogram" href="#home" aria-label="返回首页" onClick={()=>setOpen(false)}>ZJ<span>®</span></a><div className="nav-links" id="site-navigation">{[['profile','简介'],['projects','作品'],['experience','经历'],['capabilities','能力'],['contact','联系']].map(([id,label])=><a key={id} href={`#${id}`} onClick={()=>setOpen(false)}>{label}</a>)}</div><a className="nav-contact" href="mailto:1489923843@qq.com">HIRE ME <ArrowUpRight size={16}/></a><button className="nav-toggle" ref={toggle} type="button" aria-expanded={open} aria-controls="site-navigation" aria-label={open?'关闭导航':'打开导航'} onClick={()=>setOpen(v=>!v)}>{open?<X size={22}/>:<Menu size={22}/>}</button></nav>;
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "title": "One Last Kiss",
+    "artist": "宇多田ヒカル",
+    "cat": "ZJ-01",
+    "year": 2021,
+    "side": "4:12",
+    "imageUrl": "/rondel-assets/music/one-last-kiss.jpg",
+    "printLabel": false,
+    "audioUrl": "/rondel-assets/audio/track-01.mp3",
+    "sourceFile": "One Last Kiss - 宇多田ヒカル.mp3"
+  },
+  {
+    "title": "Luv (Sic) · 上传版本 A",
+    "artist": "Nujabes",
+    "cat": "ZJ-02",
+    "year": 0,
+    "side": "4:49",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-02.mp3",
+    "sourceFile": "Luv (Sic) - Nujabes.mp3"
+  },
+  {
+    "title": "Luv (sic) pt2",
+    "artist": "Nujabes",
+    "cat": "ZJ-03",
+    "year": 0,
+    "side": "4:35",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-03.mp3",
+    "sourceFile": "Luv (sic) pt2 - Nujabes.mp3"
+  },
+  {
+    "title": "Luv(sic.) Part 3 (feat. Shing02)",
+    "artist": "Nujabes",
+    "cat": "ZJ-04",
+    "year": 0,
+    "side": "5:36",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-04.mp3",
+    "sourceFile": "Luv(sic.) Part 3 (feat. Shing02) - Nujabes.mp3"
+  },
+  {
+    "title": "Luv (sic.) pt3 · 6:14 版本",
+    "artist": "Nujabes",
+    "cat": "ZJ-05",
+    "year": 0,
+    "side": "6:14",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-05.mp3",
+    "sourceFile": "Luv (sic.) pt3 - Nujabes.mp3"
+  },
+  {
+    "title": "Luv(sic), Pt. 2 · OMA",
+    "artist": "OMA",
+    "cat": "ZJ-06",
+    "year": 0,
+    "side": "5:36",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-06.mp3",
+    "sourceFile": "Luv(sic), Pt. 2 - OMA.mp3"
+  },
+  {
+    "title": "Luv(sic.) · Instrumental",
+    "artist": "Nujabes",
+    "cat": "ZJ-07",
+    "year": 0,
+    "side": "4:47",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-07.mp3",
+    "sourceFile": "Luv(sic.) (Instrumental) - Nujabes.mp3"
+  },
+  {
+    "title": "Luv (Sic) · Shing02",
+    "artist": "Shing02",
+    "cat": "ZJ-08",
+    "year": 2006,
+    "side": "4:48",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-08.mp3",
+    "sourceFile": "Luv (Sic) - Shing02.mp3"
+  },
+  {
+    "title": "Luv (Sic) · 上传版本 B",
+    "artist": "Nujabes",
+    "cat": "ZJ-09",
+    "year": 0,
+    "side": "4:46",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-09.mp3",
+    "sourceFile": "Luv (Sic) - Nujabes (1).mp3"
+  },
+  {
+    "title": "Luv (sic.) · 上传版本",
+    "artist": "Nujabes",
+    "cat": "ZJ-10",
+    "year": 0,
+    "side": "6:14",
+    "imageUrl": "/rondel-assets/music/luvsic-hexalogy.jpg",
+    "printLabel": true,
+    "audioUrl": "/rondel-assets/audio/track-10.mp3",
+    "sourceFile": "Luv (sic.) - Nujabes.mp3"
+  }
+]

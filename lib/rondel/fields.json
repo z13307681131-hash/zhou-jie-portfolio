@@ -1,0 +1,772 @@
+[
+  {
+    "key": "t001",
+    "group": "导航与品牌",
+    "original": "Rondel One — the walnut turntable (v2)"
+  },
+  {
+    "key": "t002",
+    "group": "导航与品牌",
+    "original": "RONDEL"
+  },
+  {
+    "key": "t003",
+    "group": "背景大字",
+    "original": "Spin, don’t stream."
+  },
+  {
+    "key": "t004",
+    "group": "背景大字",
+    "original": "ONE"
+  },
+  {
+    "key": "t005",
+    "group": "背景大字",
+    "original": "Interactive 3D model of the Rondel One turntable. Click the record or the start button to play."
+  },
+  {
+    "key": "t006",
+    "group": "导航与品牌",
+    "original": "Rondel, back to top"
+  },
+  {
+    "key": "t007",
+    "group": "导航与品牌",
+    "original": "Page"
+  },
+  {
+    "key": "t008",
+    "group": "导航与品牌",
+    "original": "Object"
+  },
+  {
+    "key": "t009",
+    "group": "导航与品牌",
+    "original": "Pressings"
+  },
+  {
+    "key": "t010",
+    "group": "导航与品牌",
+    "original": "Lineup"
+  },
+  {
+    "key": "t011",
+    "group": "导航与品牌",
+    "original": "Contact"
+  },
+  {
+    "key": "t012",
+    "group": "导航与品牌",
+    "original": "Play the record"
+  },
+  {
+    "key": "t013",
+    "group": "导航与品牌",
+    "original": "Listen"
+  },
+  {
+    "key": "t014",
+    "group": "导航与品牌",
+    "original": "Reserve one"
+  },
+  {
+    "key": "t015",
+    "group": "导航与品牌",
+    "original": "The object"
+  },
+  {
+    "key": "t016",
+    "group": "导航与品牌",
+    "original": "Scroll"
+  },
+  {
+    "key": "t017",
+    "group": "首页",
+    "original": "Turn sound on"
+  },
+  {
+    "key": "t018",
+    "group": "首页",
+    "original": "Analog, always"
+  },
+  {
+    "key": "t019",
+    "group": "首页",
+    "original": "Rondel One, the walnut turntable"
+  },
+  {
+    "key": "t020",
+    "group": "细节介绍",
+    "original": "01 — The object"
+  },
+  {
+    "key": "t021",
+    "group": "细节介绍",
+    "original": "Not a gadget."
+  },
+  {
+    "key": "t022",
+    "group": "细节介绍",
+    "original": "Not furniture."
+  },
+  {
+    "key": "t023",
+    "group": "细节介绍",
+    "original": "A forty-two-centimetre slab of black walnut, a motor"
+  },
+  {
+    "key": "t024",
+    "group": "细节介绍",
+    "original": "that never touches it, and a tonearm lighter than the"
+  },
+  {
+    "key": "t025",
+    "group": "细节介绍",
+    "original": "record it reads. Everything else is air."
+  },
+  {
+    "key": "t026",
+    "group": "细节介绍",
+    "original": "Built around"
+  },
+  {
+    "key": "t027",
+    "group": "细节介绍",
+    "original": "the record."
+  },
+  {
+    "key": "t028",
+    "group": "细节介绍",
+    "original": "Walnut, aluminium, steel. Nothing on it"
+  },
+  {
+    "key": "t029",
+    "group": "细节介绍",
+    "original": "that does not touch the sound."
+  },
+  {
+    "key": "t030",
+    "group": "细节介绍",
+    "original": "The whole object"
+  },
+  {
+    "key": "t031",
+    "group": "细节介绍",
+    "original": "Turn the sound on"
+  },
+  {
+    "key": "t032",
+    "group": "细节介绍",
+    "original": "Sound off"
+  },
+  {
+    "key": "t033",
+    "group": "横向标语",
+    "original": "Fig. 01"
+  },
+  {
+    "key": "t034",
+    "group": "横向标语",
+    "original": "Rondel One · 424 × 328 × 59 mm"
+  },
+  {
+    "key": "t035",
+    "group": "横向标语",
+    "original": "Scale 1 : 1 · walnut"
+  },
+  {
+    "key": "t036",
+    "group": "横向标语",
+    "original": "Spin, don’t stream. Needs a record, not a network."
+  },
+  {
+    "key": "t037",
+    "group": "横向标语",
+    "original": "Needs a record,"
+  },
+  {
+    "key": "t038",
+    "group": "横向标语",
+    "original": "not a network."
+  },
+  {
+    "key": "t039",
+    "group": "唱片章节",
+    "original": "02 — The pressings"
+  },
+  {
+    "key": "t040",
+    "group": "唱片章节",
+    "original": "Series one · ten records"
+  },
+  {
+    "key": "t041",
+    "group": "唱片章节",
+    "original": "cut for this deck"
+  },
+  {
+    "key": "t042",
+    "group": "唱片章节",
+    "original": "Choose a side."
+  },
+  {
+    "key": "t043",
+    "group": "唱片章节",
+    "original": "Rondel pressings, series one. Scroll, or use the arrow keys, to browse the records."
+  },
+  {
+    "key": "t044",
+    "group": "唱片章节",
+    "original": "Previous record"
+  },
+  {
+    "key": "t045",
+    "group": "唱片章节",
+    "original": "Next record"
+  },
+  {
+    "key": "t046",
+    "group": "唱片章节",
+    "original": "Put it on"
+  },
+  {
+    "key": "t047",
+    "group": "唱片章节",
+    "original": "Drop the needle"
+  },
+  {
+    "key": "t048",
+    "group": "唱片章节",
+    "original": "Scroll to browse the series"
+  },
+  {
+    "key": "t049",
+    "group": "唱片章节",
+    "original": "Dropping the needle"
+  },
+  {
+    "key": "t050",
+    "group": "唱片章节",
+    "original": "Stop"
+  },
+  {
+    "key": "t051",
+    "group": "唱片章节",
+    "original": "Back to the row"
+  },
+  {
+    "key": "t052",
+    "group": "唱机系列",
+    "original": "The Rondel range: six turntables. Scroll, drag or use the arrow keys to browse."
+  },
+  {
+    "key": "t053",
+    "group": "唱机系列",
+    "original": "03 — The range"
+  },
+  {
+    "key": "t054",
+    "group": "唱机系列",
+    "original": "Six decks, one workshop"
+  },
+  {
+    "key": "t055",
+    "group": "唱机系列",
+    "original": "Choose your turntable."
+  },
+  {
+    "key": "t056",
+    "group": "唱机系列",
+    "original": "Scroll · drag · click to look closer"
+  },
+  {
+    "key": "t057",
+    "group": "材质选择",
+    "original": "04 — The lineup"
+  },
+  {
+    "key": "t058",
+    "group": "材质选择",
+    "original": "Choose your board"
+  },
+  {
+    "key": "t059",
+    "group": "材质选择",
+    "original": "One Walnut"
+  },
+  {
+    "key": "t060",
+    "group": "材质选择",
+    "original": "One Ink"
+  },
+  {
+    "key": "t061",
+    "group": "材质选择",
+    "original": "One Pale Oak"
+  },
+  {
+    "key": "t062",
+    "group": "材质选择",
+    "original": "Original"
+  },
+  {
+    "key": "t063",
+    "group": "材质选择",
+    "original": "Black walnut heartwood, oiled. The one in every photograph on this page."
+  },
+  {
+    "key": "t064",
+    "group": "材质选择",
+    "original": "Finish"
+  },
+  {
+    "key": "t065",
+    "group": "材质选择",
+    "original": "Hand-oiled walnut"
+  },
+  {
+    "key": "t066",
+    "group": "材质选择",
+    "original": "Weight"
+  },
+  {
+    "key": "t067",
+    "group": "材质选择",
+    "original": "5.8 kg"
+  },
+  {
+    "key": "t068",
+    "group": "材质选择",
+    "original": "Price"
+  },
+  {
+    "key": "t150",
+    "group": "材质选择",
+    "original": "€1,490"
+  },
+  {
+    "key": "t069",
+    "group": "材质选择",
+    "original": "New"
+  },
+  {
+    "key": "t070",
+    "group": "材质选择",
+    "original": "The same board under twelve coats of black lacquer, rubbed back until the grain shows through."
+  },
+  {
+    "key": "t071",
+    "group": "材质选择",
+    "original": "Black lacquer"
+  },
+  {
+    "key": "t072",
+    "group": "材质选择",
+    "original": "5.9 kg"
+  },
+  {
+    "key": "t151",
+    "group": "材质选择",
+    "original": "€1,690"
+  },
+  {
+    "key": "t073",
+    "group": "材质选择",
+    "original": "Quarter-sawn oak, soaped white. Lighter in the room, identical underneath."
+  },
+  {
+    "key": "t074",
+    "group": "材质选择",
+    "original": "Soaped pale oak"
+  },
+  {
+    "key": "t075",
+    "group": "材质选择",
+    "original": "5.4 kg"
+  },
+  {
+    "key": "t076",
+    "group": "收尾场景",
+    "original": "Rondel One ·"
+  },
+  {
+    "key": "t077",
+    "group": "收尾场景",
+    "original": "walnut"
+  },
+  {
+    "key": "t078",
+    "group": "收尾场景",
+    "original": "Made to be"
+  },
+  {
+    "key": "t079",
+    "group": "收尾场景",
+    "original": "played loud."
+  },
+  {
+    "key": "t080",
+    "group": "页脚",
+    "original": "Every deck ships within 24 business hours."
+  },
+  {
+    "key": "t081",
+    "group": "页脚",
+    "original": "Ten-year plinth warranty"
+  },
+  {
+    "key": "t082",
+    "group": "页脚",
+    "original": "30-day returns"
+  },
+  {
+    "key": "t083",
+    "group": "页脚",
+    "original": "Get the season letter from Rondel."
+  },
+  {
+    "key": "t084",
+    "group": "页脚",
+    "original": "Four letters a year: first call on each batch, new pressings, finishes, workshop notes and listening-room dates, delivered to your inbox."
+  },
+  {
+    "key": "t085",
+    "group": "页脚",
+    "original": "Sign up"
+  },
+  {
+    "key": "t086",
+    "group": "页脚",
+    "original": "The season letter"
+  },
+  {
+    "key": "t087",
+    "group": "页脚",
+    "original": "Service"
+  },
+  {
+    "key": "t088",
+    "group": "页脚",
+    "original": "Help Center"
+  },
+  {
+    "key": "t089",
+    "group": "页脚",
+    "original": "Setup guide"
+  },
+  {
+    "key": "t090",
+    "group": "页脚",
+    "original": "Shipping"
+  },
+  {
+    "key": "t091",
+    "group": "页脚",
+    "original": "Returns"
+  },
+  {
+    "key": "t092",
+    "group": "页脚",
+    "original": "Warranty"
+  },
+  {
+    "key": "t093",
+    "group": "页脚",
+    "original": "Listening rooms"
+  },
+  {
+    "key": "t094",
+    "group": "页脚",
+    "original": "Company"
+  },
+  {
+    "key": "t095",
+    "group": "页脚",
+    "original": "About"
+  },
+  {
+    "key": "t096",
+    "group": "页脚",
+    "original": "Workshop"
+  },
+  {
+    "key": "t097",
+    "group": "页脚",
+    "original": "Press"
+  },
+  {
+    "key": "t098",
+    "group": "页脚",
+    "original": "Image bank"
+  },
+  {
+    "key": "t099",
+    "group": "页脚",
+    "original": "Social"
+  },
+  {
+    "key": "t100",
+    "group": "页脚",
+    "original": "Instagram"
+  },
+  {
+    "key": "t101",
+    "group": "页脚",
+    "original": "Bandcamp"
+  },
+  {
+    "key": "t102",
+    "group": "页脚",
+    "original": "Discogs"
+  },
+  {
+    "key": "t103",
+    "group": "页脚",
+    "original": "YouTube"
+  },
+  {
+    "key": "t104",
+    "group": "页脚",
+    "original": "Are.na"
+  },
+  {
+    "key": "t105",
+    "group": "页脚",
+    "original": "Shipping to"
+  },
+  {
+    "key": "t106",
+    "group": "页脚",
+    "original": "Rest of the World"
+  },
+  {
+    "key": "t107",
+    "group": "页脚",
+    "original": "© Rondel 2026. A fictional brand, nothing here is for sale"
+  },
+  {
+    "key": "t108",
+    "group": "页脚",
+    "original": "Terms & Conditions"
+  },
+  {
+    "key": "t109",
+    "group": "页脚",
+    "original": "Privacy Policy"
+  },
+  {
+    "key": "t110",
+    "group": "页脚",
+    "original": "Cookie Policy"
+  },
+  {
+    "key": "t111",
+    "group": "页脚",
+    "original": "Accessibility Statement"
+  },
+  {
+    "key": "t112",
+    "group": "页脚",
+    "original": "Sitemap"
+  },
+  {
+    "key": "t113",
+    "group": "加载界面",
+    "original": "Loading Rondel One"
+  },
+  {
+    "key": "t114",
+    "group": "加载界面",
+    "original": "33⅓ RPM"
+  },
+  {
+    "key": "t115",
+    "group": "加载界面",
+    "original": "SIDE A"
+  },
+  {
+    "key": "t116",
+    "group": "加载界面",
+    "original": "RONDEL ONE"
+  },
+  {
+    "key": "t117",
+    "group": "加载界面",
+    "original": "Cueing the record"
+  },
+  {
+    "key": "t118",
+    "group": "交互提示",
+    "original": "The pressings"
+  },
+  {
+    "key": "t119",
+    "group": "交互提示",
+    "original": "The range"
+  },
+  {
+    "key": "t120",
+    "group": "交互提示",
+    "original": "The lineup"
+  },
+  {
+    "key": "t121",
+    "group": "交互提示",
+    "original": "Rondel One · walnut, aluminium, steel"
+  },
+  {
+    "key": "t122",
+    "group": "交互提示",
+    "original": "Platter"
+  },
+  {
+    "key": "t123",
+    "group": "交互提示",
+    "original": "300 mm machined aluminium · the record at 33⅓"
+  },
+  {
+    "key": "t124",
+    "group": "交互提示",
+    "original": "Stylus"
+  },
+  {
+    "key": "t125",
+    "group": "交互提示",
+    "original": "nude elliptical diamond · 1.8 g on the groove"
+  },
+  {
+    "key": "t126",
+    "group": "交互提示",
+    "original": "Tonearm"
+  },
+  {
+    "key": "t127",
+    "group": "交互提示",
+    "original": "228 mm gimbal · counterweight on a thread"
+  },
+  {
+    "key": "t128",
+    "group": "交互提示",
+    "original": "Controls"
+  },
+  {
+    "key": "t129",
+    "group": "交互提示",
+    "original": "33⅓ / 45 · start / stop · two lamps"
+  },
+  {
+    "key": "t130",
+    "group": "交互提示",
+    "original": "Plinth"
+  },
+  {
+    "key": "t131",
+    "group": "交互提示",
+    "original": "one walnut board, quarter-sawn · four coats of oil"
+  },
+  {
+    "key": "t132",
+    "group": "交互提示",
+    "original": "Keep scrolling · it goes on the deck"
+  },
+  {
+    "key": "t152",
+    "group": "交互提示",
+    "original": "black walnut"
+  },
+  {
+    "key": "t153",
+    "group": "交互提示",
+    "original": "ink lacquer"
+  },
+  {
+    "key": "t154",
+    "group": "交互提示",
+    "original": "pale oak"
+  },
+  {
+    "key": "t133",
+    "group": "交互提示",
+    "original": "RONDEL PRESSINGS · SERIES ONE"
+  },
+  {
+    "key": "t134",
+    "group": "交互提示",
+    "original": "Stopped"
+  },
+  {
+    "key": "t135",
+    "group": "交互提示",
+    "original": "Now playing"
+  },
+  {
+    "key": "t136",
+    "group": "交互提示",
+    "original": "Playing · sound off"
+  },
+  {
+    "key": "t137",
+    "group": "交互提示",
+    "original": "Sound on"
+  },
+  {
+    "key": "t138",
+    "group": "交互提示",
+    "original": "Play"
+  },
+  {
+    "key": "t139",
+    "group": "交互提示",
+    "original": "Playing"
+  },
+  {
+    "key": "t140",
+    "group": "交互提示",
+    "original": "Stop the record"
+  },
+  {
+    "key": "t141",
+    "group": "交互提示",
+    "original": "Sound is on"
+  },
+  {
+    "key": "t142",
+    "group": "交互提示",
+    "original": "Mute audio"
+  },
+  {
+    "key": "t143",
+    "group": "交互提示",
+    "original": "Ready to play"
+  },
+  {
+    "key": "t144",
+    "group": "交互提示",
+    "original": "The 3D view is unavailable. You can still browse the page."
+  },
+  {
+    "key": "t145",
+    "group": "交互提示",
+    "original": "Start"
+  },
+  {
+    "key": "t146",
+    "group": "交互提示",
+    "original": "Tonearm · click to lift & return"
+  },
+  {
+    "key": "t147",
+    "group": "交互提示",
+    "original": "Tonearm · click to cue"
+  },
+  {
+    "key": "t148",
+    "group": "交互提示",
+    "original": "Record · click to stop"
+  },
+  {
+    "key": "t149",
+    "group": "交互提示",
+    "original": "Record · click to play"
+  }
+]

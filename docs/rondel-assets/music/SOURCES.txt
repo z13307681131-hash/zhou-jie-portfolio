@@ -1,0 +1,11 @@
+One Last Kiss — Hikaru Utada
+Official music video: https://www.youtube.com/watch?v=0Uhh62MUEic
+Official release: https://www.utadahikaru.jp/music/d1mdm-d0p/
+Cover: https://images.microcms-assets.io/assets/84ce301246294d9f9c15c8d9b7d21c16/c73f55fbeedc4c60a36cce4f783a4067/img_music_album_18.jpg
+
+Luv(sic) Hexalogy — Nujabes feat. Shing02
+Official streaming landing page: https://opc.lnk.to/LuvsicHexalogy
+Cover: https://linkstorage.linkfire.com/medialinks/images/5216007e-cfd9-4734-b29b-e0c6ed59da37/artwork-440x440.jpg
+Official audio: Y4HWvsGs0rY, orZdl3KqgzU, mc_xD6aGV5w, zq-lIBwhWLk, xZGJmTqS4EI, 5LpDNMbG1Jg
+
+Playback uses ten user-supplied MP3 files, stored without transcoding. Source filenames are retained in music-catalog.json. Cover art is from the releases above.
